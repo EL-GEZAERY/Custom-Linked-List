@@ -1,0 +1,14 @@
+C:\fullstack\udemy-C#\UltimateCSharpMasterclass-main\09_CustomLinkedList\bin\Debug\net7.0\09_CustomLinkedList.exe
+C:\fullstack\udemy-C#\UltimateCSharpMasterclass-main\09_CustomLinkedList\bin\Debug\net7.0\09_CustomLinkedList.deps.json
+C:\fullstack\udemy-C#\UltimateCSharpMasterclass-main\09_CustomLinkedList\bin\Debug\net7.0\09_CustomLinkedList.runtimeconfig.json
+C:\fullstack\udemy-C#\UltimateCSharpMasterclass-main\09_CustomLinkedList\bin\Debug\net7.0\09_CustomLinkedList.dll
+C:\fullstack\udemy-C#\UltimateCSharpMasterclass-main\09_CustomLinkedList\bin\Debug\net7.0\09_CustomLinkedList.pdb
+C:\fullstack\udemy-C#\UltimateCSharpMasterclass-main\09_CustomLinkedList\obj\Debug\net7.0\09_CustomLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\fullstack\udemy-C#\UltimateCSharpMasterclass-main\09_CustomLinkedList\obj\Debug\net7.0\09_CustomLinkedList.AssemblyInfoInputs.cache
+C:\fullstack\udemy-C#\UltimateCSharpMasterclass-main\09_CustomLinkedList\obj\Debug\net7.0\09_CustomLinkedList.AssemblyInfo.cs
+C:\fullstack\udemy-C#\UltimateCSharpMasterclass-main\09_CustomLinkedList\obj\Debug\net7.0\09_CustomLinkedList.csproj.CoreCompileInputs.cache
+C:\fullstack\udemy-C#\UltimateCSharpMasterclass-main\09_CustomLinkedList\obj\Debug\net7.0\09_CustomLinkedList.dll
+C:\fullstack\udemy-C#\UltimateCSharpMasterclass-main\09_CustomLinkedList\obj\Debug\net7.0\refint\09_CustomLinkedList.dll
+C:\fullstack\udemy-C#\UltimateCSharpMasterclass-main\09_CustomLinkedList\obj\Debug\net7.0\09_CustomLinkedList.pdb
+C:\fullstack\udemy-C#\UltimateCSharpMasterclass-main\09_CustomLinkedList\obj\Debug\net7.0\09_CustomLinkedList.genruntimeconfig.cache
+C:\fullstack\udemy-C#\UltimateCSharpMasterclass-main\09_CustomLinkedList\obj\Debug\net7.0\ref\09_CustomLinkedList.dll
